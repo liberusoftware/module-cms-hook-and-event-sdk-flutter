@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-hook-and-event-sdk-flutter",
+  "capabilityKey": "planned:cms:hook-and-event-sdk",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_hook_and_event_sdk_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/hook-and-event-sdk.md",
+  "presentationPlan": "projects/cms/flutter/hook-and-event-sdk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
